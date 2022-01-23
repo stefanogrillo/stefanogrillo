@@ -2,6 +2,7 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stefanogrillo&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanogrillo&layout=compact&theme=tokyonight)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanogrillo&langs_count=5&theme=tokyonight)]()
 
 - 🌱 I’m currently learning C, Python (for data analysis and machine learning), and R
