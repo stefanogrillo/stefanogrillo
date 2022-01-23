@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning C, Python (for data analysis and machine learning), and R
 - 🔥 I'm at intermediate level in R, and beginner level in C and Python
-- 📫 How to reach me: [Stefano Grillo](www.linkedin.com/in/stefano-grillo-868038148/)
+- 📫 How to reach me: [Stefano Grillo](https://www.linkedin.com/in/stefano-grillo-868038148/)
 - ⚡ Fun fact: I have a major in Economics, International Management
 
 <!--
