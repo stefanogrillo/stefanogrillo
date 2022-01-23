@@ -5,7 +5,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanogrillo&langs_count=5&theme=tokyonight)]()
 
 - 🌱 I’m currently learning C, Python (for data analysis and machine learning), and R
-- 📫 How to reach me: [Stefano Grillo](www.linkedin.com/in/stefano-grillo-868038148)
+- 📫 How to reach me: [Stefano Grillo](https://www.linkedin.com/in/stefano-grillo-868038148/)
 - ⚡ Fun fact: I have a major in Economics, International Management
 
 <!--
