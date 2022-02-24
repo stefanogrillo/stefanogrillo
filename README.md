@@ -1,14 +1,15 @@
 ### Hi there, I'm Stefano Grillo 👋
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanogrillo&layout=compact&theme=graywhite)]()
-
 - 🌱 Humbly taking my first steps in C, Python (for data analysis and machine learning), and R
 - 📫 How to reach me: [Stefano Grillo](https://www.linkedin.com/in/stefano-grillo-868038148/)
 
+
 <!--
+
 **stefanogrillo/stefanogrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanogrillo&layout=compact&theme=graywhite)]()
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stefanogrillo&hide=contribs,prs&count_private=true&theme=graywhite&showicons=true)]()
 
 Here are some ideas to get you started:
@@ -21,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
