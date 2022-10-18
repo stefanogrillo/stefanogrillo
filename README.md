@@ -1,7 +1,7 @@
 ### Hi there, I'm Stefano Grillo 👋
 
-* 🌱 Humbly taking my first steps in C, Python, HTML, CSS and R
-* 🌍 I'm based in Gütersloh, Germany
+* 🌱 Humbly improving day by day in Python, HTML, CSS, JavaScript and R
+* 🌍 I'm based in Vittorio Veneto, Italy (previously in Gütersloh, Germany)
 * ✉️ You can contact me at [stefano.grillo17@gmail.com](mailto:stefano.grillo17@gmail.com)
 
 ### Skills
