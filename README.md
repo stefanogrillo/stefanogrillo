@@ -1,6 +1,6 @@
 ### Hi there, I'm Stefano Grillo 👋
 
-* 🌱 Humbly improving day by day in Python, HTML, CSS, JavaScript and R
+* 🌱 Humbly improving day by day
 * 🌍 I'm based in Vittorio Veneto, Italy (previously in Gütersloh, Germany)
 * ✉️ You can contact me at [stefano.grillo17@gmail.com](mailto:stefano.grillo17@gmail.com)
 
